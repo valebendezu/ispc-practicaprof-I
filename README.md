@@ -19,6 +19,6 @@
 # Estimar la población futura de diferentes países o regiones y analizar el impacto que estos cambios demográficos
 # podrían tener en áreas como la economia, el medio ambiente y la política.
 ---
-[Nuestro Trello]
-(https://trello.com/b/HWc6QZVE/practica-profesionalizante-i)
+[Nuestro Trello][1]
+[1]: https://trello.com/b/HWc6QZVE/practica-profesionalizante-i
 
