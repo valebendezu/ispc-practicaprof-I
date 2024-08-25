@@ -20,5 +20,5 @@
 # podrían tener en áreas como la economia, el medio ambiente y la política.
 ---
 [Nuestro Trello][1]
-[1]: https://trello.com/b/HWc6QZVE/practica-profesionalizante-i
+[1]:https://trello.com/b/HWc6QZVE/practica-profesionalizante-i
 
