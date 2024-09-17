@@ -3,7 +3,7 @@
 ## Grupo: DataBring
 
 ### Integrantes:
-- Andres Blasiche
+- Andrés Blasiche
 - Ana Valentina Bendezu
 - Dalila Macarena Palomeque
 - Marcos Rodrigo Cabrera
